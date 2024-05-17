@@ -39,3 +39,14 @@ To run this project, you'll need to have the following prerequisites:
 To start the game, run the executable generated after the build process:
 ```bash
 ./merdeka_atau_mati
+```
+
+## Game Screenshots
+### Main Menu
+![Main Menu](images/screenshoot/merdeka-atau-mati.png)
+
+### Tutorial
+![Tutorial](images/screenshoot/merdeka-atau-mati-1.png)
+
+### Gameplay
+![Gameplay](images/screenshoot/merdeka-atau-mati-2.png)
